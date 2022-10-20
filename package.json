@@ -1,17 +1,16 @@
-
 {
-"name": "uf600",
-"theme": "uf600",
-"version": "3.5.3",
-"description": "uf600 ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"uf600",
-"uf600 เครดิตฟรี",
-"uf600 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/uf600",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "uf600",
+  "theme": "uf600",
+  "version": "3.6.0",
+  "description": "uf600 ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "uf600",
+    "uf600 เครดิตฟรี",
+    "uf600 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/uf600",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
